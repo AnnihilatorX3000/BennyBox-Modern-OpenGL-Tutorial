@@ -1,0 +1,682 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '-Aa'
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--target=arm-arm-none-eabi'
+cl : Command line warning D9002 : ignoring unknown option '-mcpu=cortex-m3'
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '-Aa'
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--target=arm-arm-none-eabi'
+cl : Command line warning D9002 : ignoring unknown option '-mcpu=cortex-m3'
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+usage: cl [ option... ] filename... [ /link linkoption... ]
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+usage: cl [ option... ] filename... [ /link linkoption... ]
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--c++'
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--ec++'
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--target=arm-arm-none-eabi'
+cl : Command line warning D9002 : ignoring unknown option '-mcpu=cortex-m3'
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--c++'
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--ec++'
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--target=arm-arm-none-eabi'
+cl : Command line warning D9002 : ignoring unknown option '-mcpu=cortex-m3'
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+usage: cl [ option... ] filename... [ /link linkoption... ]
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+usage: cl [ option... ] filename... [ /link linkoption... ]
+Determining if the C compiler works failed with the following output:
+Change Dir: A:/McGill Canada Stuff/McGill/B.A. Math, Comp Sci/Year 4 - Fall 2020/COMP 557 - Fundamentals of Computer Graphics/BennyBox Tutorial [DEAD]/OpenGLTutProj/OpenGLTutProj/include/glm/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ef0b2 && [1/2] Building C object CMakeFiles\cmTC_ef0b2.dir\testCCompiler.c.obj
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9035 : option 'o' has been deprecated and will be removed in a future release
+testCCompiler.c
+[2/2] Linking C executable cmTC_ef0b2.exe
+FAILED: cmTC_ef0b2.exe 
+cmd.exe /C "cd . && C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\HostX64\x64\cl.exe    CMakeFiles\cmTC_ef0b2.dir\testCCompiler.c.obj  -o cmTC_ef0b2.exe   && cd ."
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9035 : option 'o' has been deprecated and will be removed in a future release
+Microsoft (R) Incremental Linker Version 14.23.28106.4
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:testCCompiler.c.exe 
+/out:cmTC_ef0b2.exe 
+CMakeFiles\cmTC_ef0b2.dir\testCCompiler.c.obj 
+LINK : fatal error LNK1181: cannot open input file 'CMakeFiles\cmTC_ef0b2.dir\testCCompiler.c.obj'
+ninja: build stopped: subcommand failed.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '-Aa'
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--target=arm-arm-none-eabi'
+cl : Command line warning D9002 : ignoring unknown option '-mcpu=cortex-m3'
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '-Aa'
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--target=arm-arm-none-eabi'
+cl : Command line warning D9002 : ignoring unknown option '-mcpu=cortex-m3'
+CMakeCCompilerId.c
+c1: fatal error C1083: Cannot open source file: 'CMakeCCompilerId.c': No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+usage: cl [ option... ] filename... [ /link linkoption... ]
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+usage: cl [ option... ] filename... [ /link linkoption... ]
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--c++'
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--ec++'
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--target=arm-arm-none-eabi'
+cl : Command line warning D9002 : ignoring unknown option '-mcpu=cortex-m3'
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--c++'
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--ec++'
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9002 : ignoring unknown option '--target=arm-arm-none-eabi'
+cl : Command line warning D9002 : ignoring unknown option '-mcpu=cortex-m3'
+CMakeCXXCompilerId.cpp
+c1xx: fatal error C1083: Cannot open source file: 'CMakeCXXCompilerId.cpp': No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+usage: cl [ option... ] filename... [ /link linkoption... ]
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+usage: cl [ option... ] filename... [ /link linkoption... ]
+Determining if the C compiler works failed with the following output:
+Change Dir: A:/McGill Canada Stuff/McGill/B.A. Math, Comp Sci/Year 4 - Fall 2020/COMP 557 - Fundamentals of Computer Graphics/BennyBox Tutorial [DEAD]/OpenGLTutProj/OpenGLTutProj/include/glm/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a33f1 && [1/2] Building C object CMakeFiles\cmTC_a33f1.dir\testCCompiler.c.obj
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9035 : option 'o' has been deprecated and will be removed in a future release
+testCCompiler.c
+[2/2] Linking C executable cmTC_a33f1.exe
+FAILED: cmTC_a33f1.exe 
+cmd.exe /C "cd . && C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\HostX64\x64\cl.exe    CMakeFiles\cmTC_a33f1.dir\testCCompiler.c.obj  -o cmTC_a33f1.exe   && cd ."
+Microsoft (R) C/C++ Optimizing Compiler Version 19.23.28106.4 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9035 : option 'o' has been deprecated and will be removed in a future release
+Microsoft (R) Incremental Linker Version 14.23.28106.4
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:testCCompiler.c.exe 
+/out:cmTC_a33f1.exe 
+CMakeFiles\cmTC_a33f1.dir\testCCompiler.c.obj 
+LINK : fatal error LNK1181: cannot open input file 'CMakeFiles\cmTC_a33f1.dir\testCCompiler.c.obj'
+ninja: build stopped: subcommand failed.
+
+
+
